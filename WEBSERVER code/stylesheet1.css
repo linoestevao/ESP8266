@@ -1,0 +1,38 @@
+html {
+    font-family: Tahoma;
+    
+    
+}
+
+#topbar {
+	
+    margin-top: -20px;
+	position: fixed;
+	width: 97.5%;
+	height: 60px;
+	margin-bottom: 10px;
+    border: 1px black;
+}
+
+#topbartable {
+    align-content: center;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+
+body {
+    padding-top: 20px;
+    
+}
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #33CCCC;
+}
